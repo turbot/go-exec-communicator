@@ -11,8 +11,8 @@ import (
 
 	"github.com/masterzen/winrm"
 	"github.com/packer-community/winrmcp/winrmcp"
-	"github.com/turbot/communicator/remote"
-	"github.com/turbot/communicator/shared"
+	"github.com/turbot/go-exec-communicator/remote"
+	"github.com/turbot/go-exec-communicator/shared"
 )
 
 // Communicator represents the WinRM communicator

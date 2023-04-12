@@ -13,7 +13,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/turbot/communicator/shared"
+	"github.com/turbot/go-exec-communicator/shared"
 	sshagent "github.com/xanzy/ssh-agent"
 	"golang.org/x/crypto/ssh"
 	"golang.org/x/crypto/ssh/agent"

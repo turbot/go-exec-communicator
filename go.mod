@@ -1,4 +1,4 @@
-module github.com/turbot/communicator
+module github.com/turbot/go-exec-communicator
 
 go 1.19
 

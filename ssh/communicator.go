@@ -19,8 +19,8 @@ import (
 	"time"
 
 	"github.com/apparentlymart/go-shquot/shquot"
-	"github.com/turbot/communicator/remote"
-	"github.com/turbot/communicator/shared"
+	"github.com/turbot/go-exec-communicator/remote"
+	"github.com/turbot/go-exec-communicator/shared"
 	"golang.org/x/crypto/ssh"
 	"golang.org/x/crypto/ssh/agent"
 	//_ "github.com/turbot/logging"

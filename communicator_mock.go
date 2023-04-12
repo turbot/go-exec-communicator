@@ -7,8 +7,8 @@ import (
 	"strings"
 	"time"
 
-	"github.com/turbot/communicator/remote"
-	"github.com/turbot/communicator/shared"
+	"github.com/turbot/go-exec-communicator/remote"
+	"github.com/turbot/go-exec-communicator/shared"
 )
 
 // MockCommunicator is an implementation of Communicator that can be used for tests.

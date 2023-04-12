@@ -9,7 +9,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/turbot/communicator/shared"
+	"github.com/turbot/go-exec-communicator/shared"
 )
 
 func TestCommunicator_new(t *testing.T) {

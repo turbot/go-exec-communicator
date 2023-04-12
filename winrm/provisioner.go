@@ -7,7 +7,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/turbot/communicator/shared"
+	"github.com/turbot/go-exec-communicator/shared"
 )
 
 const (

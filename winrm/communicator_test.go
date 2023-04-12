@@ -8,8 +8,8 @@ import (
 	"testing"
 
 	"github.com/dylanmei/winrmtest"
-	"github.com/turbot/communicator/remote"
-	"github.com/turbot/communicator/shared"
+	"github.com/turbot/go-exec-communicator/remote"
+	"github.com/turbot/go-exec-communicator/shared"
 	"github.com/zclconf/go-cty/cty"
 )
 

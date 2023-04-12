@@ -9,10 +9,10 @@ import (
 	"sync/atomic"
 	"time"
 
-	"github.com/turbot/communicator/remote"
-	"github.com/turbot/communicator/shared"
-	"github.com/turbot/communicator/ssh"
-	"github.com/turbot/communicator/winrm"
+	"github.com/turbot/go-exec-communicator/remote"
+	"github.com/turbot/go-exec-communicator/shared"
+	"github.com/turbot/go-exec-communicator/ssh"
+	"github.com/turbot/go-exec-communicator/winrm"
 )
 
 // Communicator is an interface that must be implemented by all communicators
